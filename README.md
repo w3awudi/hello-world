@@ -1,2 +1,2 @@
 # hello-world
-This homework for class 502.53
+This is  homework for class 502.53
